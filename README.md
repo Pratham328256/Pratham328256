@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm Prathamesh Kulkarni👋
 
-<!--
-**Pratham328256/Pratham328256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | ☁️ Cloud & Data Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about transforming **data into meaningful insights** and helping organizations make **data-driven decisions**. I enjoy working with **data analytics, business intelligence, and visualization tools** to analyze trends and solve real-world problems.
+
+---
+
+## 🚀 About Me
+
+* 📊 Data Analytics Enthusiast with strong interest in **Business Intelligence & Data Visualization**
+* 📈 Passionate about **data-driven decision making**
+* 🧠 Skilled in **data cleaning, analysis, and dashboard creation**
+* ☁️ Interested in **Cloud technologies for data analytics**
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced **Data Analytics & Data Science**
+* **Data Visualization & Dashboarding**
+
+---
+
+## 💼 Tech Stack
+
+**Languages**
+
+* Python
+* SQL
+
+**Data Analytics**
+
+* Excel
+* Power BI
+* Data Cleaning
+* Data Visualization
+* Data Modeling
+
+**Database**
+
+* MySQL
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on:
+
+* 📊 Data Analytics Dashboards
+* 📈 Data Visualization Projects
+* 🧠 Data-Driven Research Projects
+* 🔓 Open Source Data Projects
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[prathm3222@gmail.com](mailto:prathm3222@gmail.com)**
+
+💼 LinkedIn
+www.linkedin.com/in/prathamesh-kulkarni-100007354
+
+🧑‍💻 GitHub
+https://github.com/Pratham328256
+
+
+---
+
+## ⚡ Fun Fact
+
+I can speak **three languages**:
+🇬🇧 English | 🇮🇳 Hindi | 🇮🇳 Marathi
+
+---
+
+⭐ *Always curious to learn new technologies and explore data-driven insights.*
