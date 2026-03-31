@@ -1,6 +1,6 @@
 # Hi, I'm Prathamesh Kulkarni👋
 
-### 📊 Data Analyst | ☁️ Cloud & Data Enthusiast
+### 📊 Data Analyst | Data Enthusiast
 
 Welcome to my GitHub profile!
 
@@ -13,7 +13,6 @@ I am passionate about transforming **data into meaningful insights** and helping
 * 📊 Data Analytics Enthusiast with strong interest in **Business Intelligence & Data Visualization**
 * 📈 Passionate about **data-driven decision making**
 * 🧠 Skilled in **data cleaning, analysis, and dashboard creation**
-* ☁️ Interested in **Cloud technologies for data analytics**
 
 ---
 
